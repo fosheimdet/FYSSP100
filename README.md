@@ -3,9 +3,9 @@
 All relevant/final scripts are stored in FYSSP100/tarball/11/code/11_1/categorized code. 
 
 The main files used in the project are
-  finding_opt_window.C
-  estimatingSim.C
-  test_statistic.C
+  finding_opt_window.C, 
+  estimatingSim.C, 
+  test_statistic.C  and 
   discoveryAndExlusion.C
 
 significance_luminosity2.C is used to generate the 4-panel plot illustrating how the significance decreases with 
