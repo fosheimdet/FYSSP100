@@ -8,7 +8,7 @@ The main files used in the project are
   test_statistic.C  and 
   discoveryAndExlusion.C
 
-significance_luminosity2.C is used to generate the 4-panel plot illustrating how the significance decreases with 
+significance_luminosity2.C is used to generate the 4-panel plot illustrating how the significance increases with 
 an increase in luminosity.
 
 lum_and_sig3.C is used to plot significance vs luminosity. To run it, you need to first have loaded finding_opt_window.C 
