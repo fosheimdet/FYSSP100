@@ -14,6 +14,6 @@ an increase in luminosity.
 lum_and_sig3.C is used to plot significance vs luminosity. To run it, you need to first have loaded finding_opt_window.C 
 (by use of ".L finding_opt_window.C" in root). 
 
-The addition aCliC file etc. needs to be stored in the same directory as the main files listed above in order for them to run. 
+The additional aCliC file etc. needs to be stored in the same directory as the main files listed above in order for them to run. 
 
 
